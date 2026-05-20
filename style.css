@@ -132,6 +132,12 @@ textarea {
     max-width: 420px;
     border: solid 2px #fff;
     border-radius: 50px;
+
+    transition: 
+    transform 0.3s ease,
+    box-shadow 0.3s ease,
+    border-color 0.3s ease,
+    background 0.3s ease;
     
 
 
@@ -146,6 +152,22 @@ img{
    justify-self: start;
     width: 36px;
     height: 36px;
+    transition: transform 0.3s ease;
     
+}
+
+img:hover{
+  transform: scale(1.12);
+
+}
+
+.card:hover{
+   transform: translateY(-4px);
+  border-color: #3B82F6;
+  background: rgba(59, 130, 246, 0.12);
+
+  box-shadow:
+    0 12px 32px rgba(0, 0, 0, 0.35),
+    0 0 24px rgba(59, 130, 246, 0.25);
 }
 
