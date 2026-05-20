@@ -14,4 +14,4 @@ Além de funcionar como uma central de acesso rápido, o DevToCode Hub também f
 
 ## 🌎 Deploy
 
-Acesse o projeto:https://dev-to-code-hub.vercel.app/
+Acesse o projeto:https://devtocode-hub.onrender.com/
