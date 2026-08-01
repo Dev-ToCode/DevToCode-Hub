@@ -14,4 +14,6 @@ Além de funcionar como uma central de acesso rápido, o DevToCode Hub também f
 
 ## 🌎 Deploy
 
-Acesse o projeto:hub.devtocode.co
+Acesse o projeto:
+
+  <a href="https://hub.devtocode.co" target="_blank" rel="noopener noreferrer">🌐DevToCode Hub</a> •
